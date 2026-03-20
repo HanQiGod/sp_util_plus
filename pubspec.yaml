@@ -1,5 +1,5 @@
 name: sp_util_plus
-description: Flutter shared_preferences plugin util, support get default value, save object, object list.
+description: Flutter 升级3.35.7之后，对sp_util插件的升级。
 version: 1.0.0
 homepage: https://github.com/HanQiGod/sp_util_plus
 

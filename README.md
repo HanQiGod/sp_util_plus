@@ -1,4 +1,7 @@
 # sp_util_plus
+
+## 技术支持邮箱(1539841933@qq.com)。
+
 [![Pub](https://img.shields.io/pub/v/sp_util_plus.svg?style=flat-square&color=009688)](https://pub.dev/packages/sp_util_plus)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Pub](https://img.shields.io/pub/v/sp_util_plus.svg?style=flat-square&color=2196F3)](https://pub.flutter-io.cn/packages/sp_util_plus)
 
 Flutter shared_preferences plugin util, support get default value, save object, object list. Use SharedPreferences easily.
